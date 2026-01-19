@@ -12,14 +12,14 @@ I'm currently studying **Computer Science** with a specialization in **Cybersecu
 
 ### 🎯 Goals for 2026:
 - Build a solid portfolio focused on cybersecurity and programming  
-- Develop a 2D game project in C++ or C#  
+- Develop a 2D game project in C++ 
 - Strengthen algorithmic thinking and technical skills  
 - Prepare for future roles in IT and security  
 
 ### 📂 Main Projects I'm creating:
 - 🔐 **Cyber Password Security** – password strength analyzer  
 - 🗃️ **SQL Library Database** – database design & queries  
-- 🎮 **2D Game Project** – C++/C# gameplay and mechanics  
+- 🎮 **2D Game Project** – C++ gameplay and mechanics  
 - 📊 **Algorithms & Python** – implementing and analyzing algorithms  
 
 ### 📫 Contact
